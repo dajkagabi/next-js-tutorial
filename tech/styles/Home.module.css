@@ -1,0 +1,18 @@
+.title {
+  color: #333;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.text {
+  color:  rgb(0, 3, 5);
+}
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: linear-gradient(140deg, #e6bdbd 8%,#fbfbfb 100%);
+  border-radius: 12px;
+  color: rgb(147, 0, 90);
+  text-align: center;
+}
